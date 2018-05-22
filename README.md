@@ -3,7 +3,6 @@
 # NLP-micro-project-Job-salary-and-title-prediction
 Another micro project. We (student) are tasked to web scrap job post website and predict salary and job title based on NLP
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 4: Web Scraping Job Postings
 
 ## Business Case Overview
 
